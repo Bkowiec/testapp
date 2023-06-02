@@ -1,3 +1,7 @@
 (function () {
-  console.log('Hello world!');
+    function init() {
+      console.log('Hello world!');
+    }
+    
+    init();
 })();
